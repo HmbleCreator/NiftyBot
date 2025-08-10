@@ -38,7 +38,7 @@ The system only generates signals when both indicators align, reducing false pos
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HmbleCreator/NiftyBot.git
    cd niftybot
    ```
 
@@ -195,3 +195,4 @@ For questions or support, please open an issue on GitHub or contact the developm
 ---
 
 **Happy Trading! 🎯**
+
