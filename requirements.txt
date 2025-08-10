@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+ta
+scikit-learn
+gspread
+oauth2client
+schedule
+python-telegram-bot
+nsepy
