@@ -49,7 +49,7 @@ The system only generates signals when both indicators align, reducing false pos
 
 3. **Configure API credentials**
    - Place your Google Cloud credentials file as `capable-asset-468407-h9-dbda93abc544.json`
-   - Update `config.py` with your API keys and settings
+   - Update `config.py` settings
 
 4. **Set up Telegram Bot (optional)**
    - Create a bot using [@BotFather](https://t.me/botfather)
@@ -180,19 +180,14 @@ This is an educational project for algorithmic trading concepts. **DO NOT use fo
 - Consider transaction costs and slippage in real trading
 - Market conditions can change rapidly
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Support
-
-For questions or support, please open an issue on GitHub or contact the development team.
 
 ---
 
 **Happy Trading! 🎯**
+
 
